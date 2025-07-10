@@ -1,21 +1,56 @@
-# Striver A2Z DSA Roadmap
----
-## Step 1: Learn the basics
+# 🚀 Striver A2Z DSA Roadmap
 
-### Step 1.1: Things to know in any language
-- If-else, functions, loops etc.,
+## ✅ Step 1: Learn the Basics
 
-### Step 1.2: Building up logical thinking
-- Patterns - 22
+### 📘 1.1 Things to Know in Any Language
+- [x] If-Else Statements  
+- [x] Loops (for, while, do-while)  
+- [x] Functions and Parameters  
+- [x] Input/Output  
+- [x] Switch-case, Break, Continue
 
-### Step 1.3: Standard Library
-- C++ STL or Java Collections(based on language)
+### 🧩 1.2 Building Logical Thinking (22 Patterns)
+- [ ] Half Pyramid  
+- [ ] Inverted Pyramid  
+- [ ] Numeric Pyramid  
+- [ ] Star + Number Combo Patterns  
+- [ ] Diamond, Butterfly, Pascal's Triangle  
+- [ ] Hollow Patterns, 0-1 Triangle, Palindromic Pyramids  
+- [ ] Zigzag and Advanced Star Patterns
 
-### Step 1.4: Basic Maths
-- Count Digits, Reverse a Number, Check Palindrome, etc.
+### 🛠️ 1.3 Standard Library (C++ STL / Java Collections)
+- [ ] Vectors / Arrays  
+- [ ] Pairs & Tuples  
+- [ ] Sets / Maps / Unordered Maps  
+- [ ] Stacks / Queues / Priority Queues  
+- [ ] Iterators & Algorithms (`sort`, `reverse`, etc.)
 
-### Step 1.5: Basic Recursion
-- Basic recursion problems like Fibonacci, Factorial, Power, etc.
+### 🔢 1.4 Basic Maths
+- [ ] Count Digits  
+- [ ] Reverse a Number  
+- [ ] Check Palindrome  
+- [ ] GCD / HCF  
+- [ ] LCM  
+- [ ] Armstrong Number  
+- [ ] Prime Check  
+- [ ] Print all Divisors  
+- [ ] Check Prime in Range  
+- [ ] Sieve of Eratosthenes
 
-### Step 1.6: Basic Hashing
-- Hashing theory, basic hashing problems
+### 🔁 1.5 Basic Recursion
+- [ ] Print 1 to N / N to 1  
+- [ ] Sum of first N numbers  
+- [ ] Factorial  
+- [ ] Fibonacci  
+- [ ] Reverse Array Recursively  
+- [ ] Palindrome Check  
+- [ ] Power Function  
+- [ ] Multiple Recursion Calls
+
+### #️⃣ 1.6 Basic Hashing
+- [ ] Frequency Count  
+- [ ] Most Frequent Element  
+- [ ] Count Distinct Elements  
+- [ ] Check Duplicates  
+- [ ] Intersection of Arrays  
+- [ ] Hashmap Use-Cases
