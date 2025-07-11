@@ -24,11 +24,18 @@ int main() {
    * we know that the largest element is already at the end
    */
   for (size_t i = 0; i < std::size(arr) - 1; ++i) {
+    bool swapped = false;
+
     for (size_t j = 0; j < std::size(arr) - i - 1; ++j) {
       if (arr[j] > arr[j + 1]) {
         swap(&arr[j], &arr[j + 1]);
+        bool swapped = true;
       }
     }
+
+    /* if there is no swap then the array is sorted  we will break the loop */
+    if (!swapped)
+      break;
   }
 
   return 0;
