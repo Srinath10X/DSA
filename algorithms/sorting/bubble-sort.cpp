@@ -34,8 +34,7 @@ int main() {
     }
 
     /* if there is no swap then the array is sorted  we will break the loop */
-    if (!swapped)
-      break;
+    if (!swapped) break;
   }
 
   return 0;
